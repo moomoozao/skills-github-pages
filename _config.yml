@@ -1,6 +1,6 @@
 theme: minima
 title: "Murilo | Portfólio"
-author: "Murilo"
+author: "Murilo Bassan"
 description: "Portfólio profissional e insights sobre minha área de atuação."
 show_excerpts: true # Exibe resumos dos posts na página inicial
 permalink: /:title/ # URLs amigáveis
