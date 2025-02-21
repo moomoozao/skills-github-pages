@@ -15,5 +15,5 @@ Sou Murilo Gamarra Bassan, Técnico em Informática pelo IFMS, estudante de Sist
 
 ## Contato  
 - **E-mail**: murilogabassan@gmail.com  
-- **LinkedIn**: (https://www.linkedin.com/in/murilo-bassan-3909a2261/) 
-- **GitHub**: (https://github.com/moomoozao)  
+- **LinkedIn**: https://www.linkedin.com/in/murilo-bassan-3909a2261/ 
+- **GitHub**: https://github.com/moomoozao  
